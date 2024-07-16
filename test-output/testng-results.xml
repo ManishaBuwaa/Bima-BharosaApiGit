@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T12:38:25 IST" name="Default Suite" finished-at="2024-07-16T12:38:29 IST" duration-ms="4480">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T12:38:25 IST" name="Bimabharosa_API_Automation_withoutDB" finished-at="2024-07-16T12:38:29 IST" duration-ms="4480">
+      <class name="Update.Test_1_StatusChangeDate_Validation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Update.Test_1_StatusChangeDate_Validation@421bba99]" started-at="2024-07-16T12:38:24 IST" name="setup" finished-at="2024-07-16T12:38:25 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Update.Test_1_StatusChangeDate_Validation@421bba99]" started-at="2024-07-16T12:38:25 IST" name="beforeMethod" finished-at="2024-07-16T12:38:25 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="future_statusChangeDate_negative_TC()[pri:1, instance:Update.Test_1_StatusChangeDate_Validation@421bba99]" started-at="2024-07-16T12:38:25 IST" name="future_statusChangeDate_negative_TC" finished-at="2024-07-16T12:38:29 IST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- future_statusChangeDate_negative_TC -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Update.Test_1_StatusChangeDate_Validation@421bba99]" started-at="2024-07-16T12:38:29 IST" name="afterMethod" finished-at="2024-07-16T12:38:29 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=future_statusChangeDate_negative_TC status=SUCCESS method=Test_1_StatusChangeDate_Validation.future_statusChangeDate_negative_TC()[pri:1, instance:Update.Test_1_StatusChangeDate_Validation@421bba99] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Update.Test_1_StatusChangeDate_Validation@421bba99]" started-at="2024-07-16T12:38:29 IST" name="tearDown" finished-at="2024-07-16T12:38:30 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Update.Test_1_StatusChangeDate_Validation -->
+    </test> <!-- Bimabharosa_API_Automation_withoutDB -->
+  </suite> <!-- Default Suite -->
+</testng-results>
